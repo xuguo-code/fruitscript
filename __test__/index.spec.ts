@@ -1,7 +1,7 @@
 import { helloWord } from '../src'
 
-describe('test index ', () => {
-  test('test helloWord ', () => {
+describe('test index', () => {
+  test('helloWord', () => {
     expect(helloWord()).toBe('hello-word')
   })
 })
