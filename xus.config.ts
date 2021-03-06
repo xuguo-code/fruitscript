@@ -42,6 +42,6 @@ export default defineConfig({
         }
       }
     ],
-    branch: 'main'
+    branch: 'master'
   }
 })
